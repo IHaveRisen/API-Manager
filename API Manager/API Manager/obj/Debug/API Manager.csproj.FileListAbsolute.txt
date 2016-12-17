@@ -1,0 +1,6 @@
+C:\Users\Vito\Documents\API Manager\API Manager\bin\Debug\API Manager.exe.config
+C:\Users\Vito\Documents\API Manager\API Manager\obj\Debug\API Manager.csprojResolveAssemblyReference.cache
+C:\Users\Vito\Documents\API Manager\API Manager\bin\Debug\API Manager.exe
+C:\Users\Vito\Documents\API Manager\API Manager\bin\Debug\API Manager.pdb
+C:\Users\Vito\Documents\API Manager\API Manager\obj\Debug\API Manager.exe
+C:\Users\Vito\Documents\API Manager\API Manager\obj\Debug\API Manager.pdb
